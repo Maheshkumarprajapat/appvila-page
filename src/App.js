@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react'
+import Call from './components/Call'
+import Features from './components/Features'
+import Footer from './components/Footer'
+import Header from './components/Header'
+import Home from './components/Home'
+import Ourachievement from './components/Ourachievement'
+import Pricing from './components/Pricing'
+import JsonData from './data/Data.json'
+export default function App() {
+  const [PageData, setPageData] = useState({})
+  useEffect(() => {
+    setPageData(JsonData)
 
-function App() {
+  }, [])
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <React.Fragment>
+      <Header />
+      <Home data={PageData.Home} />
+      <Features data={PageData.Features}/>
+      <Ourachievement data={PageData.Ourachievement}/>
+      <Pricing data={PageData.Pricing}/>
+      <Call data={PageData.Call}/>
+      <Footer/>
+    </React.Fragment>
+  )
 }
-
-export default App;

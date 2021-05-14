@@ -1,0 +1,144 @@
+{
+    "Home": {
+        "ttl": "A powerful app for your business.",
+        "desc": "From open source to pro services, Piqes helps you to build, deploy, test, and monitor apps.",
+        "btn1": "App Store",
+        "btn2": "Google Play"
+    },
+    "Call": {
+        "ttl1": "You are using free Lite.",
+        "ttl2": "Version of Appvilla",
+        "desc": "Please, purchase full version of the template to get all pages, features and commercial license.",
+        "btn": "Purchase Now"
+    },
+    "Features": {
+        "ttl1": "Features",
+        "ttl2": "Your Experience Gets Better And Better Over Time.",
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+        "Featuresbox": [
+            {
+                "ttl1": "Push to Deploy",
+                "icon": "lni lni-cloud-upload",
+                "desc": "It is a long established fact that a reader will be distracted by the readable content of a page at    its layout."
+            },
+            {
+                "ttl1": "SSL Certificates",
+                "icon": "lni lni-lock",
+                "desc": "It is a long established fact that a reader will be distracted by the readable content of a page at its layout."
+            },
+            {
+                "ttl1": "Simple Queues",
+                "icon": "lni lni-reload",
+                "desc": "It is a long established fact that a reader will be distracted by the readable content of a page at    its layout."
+            },
+            {
+                "ttl1": "Advanced Security",
+                "icon": "lni lni-shield",
+                "desc": "It is a long established fact that a reader will be distracted by the readable content of a page at    its layout."
+            },
+            {
+                "ttl1": "Powerful API",
+                "icon": "lni lni-cog",
+                "desc": "It is a long established fact that a reader will be distracted by the readable content of a page at    its layout."
+            },
+            {
+                "ttl1": "Database Backups",
+                "icon": "lni lni-layers",
+                "desc": "It is a long established fact that a reader will be distracted by the readable content of a page at    its layout."
+            }
+        ]
+    },
+    "Ourachievement": {
+        "ttl1": "Trusted by developers from over 80 planets",
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority.",
+        "singleachievement": [
+            {
+                "ttl1": "100",
+                "ttl2": "%",
+                "desc": "satisfaction"
+            },
+            {
+                "ttl1": "120",
+                "ttl2": "K",
+                "desc": "Happy Users"
+            },
+            {
+                "ttl1": "125",
+                "ttl2": "k+",
+                "desc": "Downloads"
+            }
+        ]
+    },
+    "Pricing": {
+        "ttl1": "pricing",
+        "ttl2": "Pricing Plan",
+        "desc": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+        "singletable": [
+            {
+                "ttl1": "Hobby",
+                "desc": "All the basics for starting a new business",
+                "ttl2": "$12",
+                "ttl3": "/mo",
+                "link":"Buy Hobby",
+                "ttl4": "What's Included",
+                "icon1":"lni lni-checkmark-circle",
+                "iconttl1": "Cras justo odio.",
+                "icon2":"lni lni-checkmark-circle",
+                "iconttl2": "Dapibus ac facilisis in.",
+                "icon3":"lni lni-checkmark-circle",
+                "iconttl3": " Morbi leo risus.",
+                "icon4":"lni lni-checkmark-circle",
+                "iconttl4": "Potenti felis, in cras ligula."
+            },
+            {
+                "ttl1": "Freelancer",
+                "desc": "All the basics for starting a new business",
+                "ttl2": "$24",
+                "ttl3": "/mo",
+                "link":"Buy Freelancer",
+                "ttl4": "What's Included",
+                "icon1":"lni lni-checkmark-circle",
+                "iconttl1": "Cras justo odio.",
+                "icon2":"lni lni-checkmark-circle",
+                "iconttl2": "Dapibus ac facilisis in.",
+                "icon3":"lni lni-checkmark-circle",
+                "iconttl3": " Morbi leo risus.",
+                "icon4":"lni lni-checkmark-circle",
+                "iconttl4": "Potenti felis, in cras ligula."
+            },
+            {
+                "ttl1": "Startup",
+                "desc": "All the basics for starting a new business",
+                "ttl2": "$32",
+                "ttl3": "/mo",
+                "link":"Buy Startup",
+                "ttl4": "What's Included",
+                "icon1":"lni lni-checkmark-circle",
+                "iconttl1": "Cras justo odio.",
+                "icon2":"lni lni-checkmark-circle",
+                "iconttl2": "Dapibus ac facilisis in.",
+                "icon3":"lni lni-checkmark-circle",
+                "iconttl3": " Morbi leo risus.",
+                "icon4":"lni lni-checkmark-circle",
+                "iconttl4": "Potenti felis, in cras ligula."
+            },
+            {
+                "ttl1": "Enterprise",
+                "desc": "All the basics for starting a new business",
+                "ttl2": "$48",
+                "ttl3": "/mo",
+                "link":"Buy Enterprise",
+                "ttl4": "What's Included",
+                "icon1":"lni lni-checkmark-circle",
+                "iconttl1": "Cras justo odio.",
+                "icon2":"lni lni-checkmark-circle",
+                "iconttl2": "Dapibus ac facilisis in.",
+                "icon3":"lni lni-checkmark-circle",
+                "iconttl3": " Morbi leo risus.",
+                "icon4":"lni lni-checkmark-circle",
+                "iconttl4": "Potenti felis, in cras ligula."
+            }
+            
+        ]
+    }
+}
